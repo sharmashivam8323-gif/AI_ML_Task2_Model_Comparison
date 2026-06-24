@@ -90,4 +90,4 @@ Actual vs Predicted House Prices Scatter Plot was used to evaluate model perform
 
 **Shivam Sharma**
 
-MCA Student | AI & ML Enthusiast
+MCA Student 
